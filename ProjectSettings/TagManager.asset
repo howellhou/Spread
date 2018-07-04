@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - groundCheck
+  - enermy
+  - player
+  - spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - house
+  - Ground
+  - character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: house
+    uniqueID: 2577048487
+    locked: 0
+  - name: Background
+    uniqueID: 935370387
+    locked: 0
+  - name: Houses
+    uniqueID: 2630244945
+    locked: 0
+  - name: BKG
+    uniqueID: 344458169
+    locked: 0
+  - name: character
+    uniqueID: 3075417183
+    locked: 0
